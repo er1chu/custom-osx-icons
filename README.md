@@ -18,4 +18,7 @@ El Capitan has made it more difficult to replace icons.
 4. Optionally, you can re-enable Rootless by opening Terminal and running: `sudo nvram boot-args="rootless=1”`
 
 ### Credits
-The uppercase ‘G’ featured in the Glyphs icon is taken from Fuego Serif, an unreleased typeface by [Justin Sloane](http://justinsloane.com/)
+- The uppercase ‘G’ featured in the Glyphs icon is taken from Fuego Serif, an unreleased typeface by [Justin Sloane](http://justinsloane.com/).
+
+## License
+The icons are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
