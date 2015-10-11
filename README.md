@@ -19,6 +19,7 @@ El Capitan has made it more difficult to replace icons.
 
 ### Credits
 - The uppercase ‘G’ featured in the Glyphs icon is taken from Fuego Serif, an unreleased typeface by [Justin Sloane](http://justinsloane.com/).
+- Fountain pen vector by Roman J. Sokolov from the Noun Project.
 
 ## License
 The icons are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
