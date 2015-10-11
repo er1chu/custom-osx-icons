@@ -10,6 +10,7 @@
 
 ### If your version of OS X is El Capitan or newer
 El Capitan has made it more difficult to replace icons.
+
 1. Run the following in Terminal to disable Rootless:
 `sudo nvram boot-args="rootless=0”`
 2. Reboot your computer.
@@ -17,4 +18,4 @@ El Capitan has made it more difficult to replace icons.
 4. Optionally, you can re-enable Rootless by opening Terminal and running: `sudo nvram boot-args="rootless=1”`
 
 ### Credits
-The uppercase ‘G’ featured in the Glyphs icon is taken from Justin Sloane’s (unreleased) Fuego Serif.
+The uppercase ‘G’ featured in the Glyphs icon is taken from Fuego Serif, an unreleased typeface by [Justin Sloane](http://justinsloane.com/)
