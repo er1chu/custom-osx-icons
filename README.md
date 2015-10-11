@@ -1,5 +1,6 @@
 # Alternate OSX Icons
 > Some alternative icons I have made for some OS X icons that you can use as replacements for the defaults.
+
 ## Installation
 
 ### If your OS X is Mavericks or older
